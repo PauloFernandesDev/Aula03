@@ -1,0 +1,11 @@
+numero1 = float(input ("Informe o Primeiro numero:"))
+numero2 = float(input ("Informe o Segundo numero:"))
+resultado = int(numero1 + numero2)
+print(f"A adicao é: {resultado}")
+resultado = int(numero1 - numero2)
+print(f"A subtracao é: {resultado}")
+resultado = float(numero1 * numero2)
+print(f"A multiplicacao é: {resultado}")
+resultado = float(numero1 / numero2)
+print(f"A divisao é: {resultado}")
+
