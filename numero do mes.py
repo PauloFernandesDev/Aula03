@@ -23,7 +23,7 @@ if (numero >= 1) and (numero <= 12):
         print("Outubro")
     elif numero == 11:
         print("Movembro")
-    elif numero == 12:
+    else:
         print("Dezembro")
 else:
     print("Opção inválida")
